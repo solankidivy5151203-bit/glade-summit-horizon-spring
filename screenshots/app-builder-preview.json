@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Hustle HQ",
+      "hasCanvas": true,
+      "bodyTextLen": 397,
+      "bodyTextHash": "336315da81367adcce9ba732a7497af5f534209ce7236f2887a89c410aaddf1b",
+      "bodyTextPrefix": "A FRIDAY. 11:47PM. Hustle HQ Halcyon Consulting fired Rae Voss a",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Hustle HQ",
+      "hasCanvas": true,
+      "bodyTextLen": 397,
+      "bodyTextHash": "336315da81367adcce9ba732a7497af5f534209ce7236f2887a89c410aaddf1b",
+      "bodyTextPrefix": "A FRIDAY. 11:47PM. Hustle HQ Halcyon Consulting fired Rae Voss a",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
